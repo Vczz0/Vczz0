@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Python, Linux**
 
-- 📫 How to reach me **Discord: Vczz0**
+- 📫 How to reach me **Discord: Vczz0#9027**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
