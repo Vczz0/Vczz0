@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm oVczZ7, Vczz0</h1>
+<h1 align="center">Hi 👋, I'm Vczz0</h1>
 <h3 align="center">CyberSecurity Enthusiast, Python Developer</h3>
 
 - 🔭 I’m currently working on **Cerberos C2**
-
-- 💬 Ask me about **Python, Linux**
 
 - 📫 How to reach me **Discord: Vczz0#9027**
 
